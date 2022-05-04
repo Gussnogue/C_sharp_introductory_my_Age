@@ -1,0 +1,15 @@
+C:\Csharp syntax and logics Studies\Praticas\bin\Debug\net6.0\Praticas.exe
+C:\Csharp syntax and logics Studies\Praticas\bin\Debug\net6.0\Praticas.deps.json
+C:\Csharp syntax and logics Studies\Praticas\bin\Debug\net6.0\Praticas.runtimeconfig.json
+C:\Csharp syntax and logics Studies\Praticas\bin\Debug\net6.0\Praticas.dll
+C:\Csharp syntax and logics Studies\Praticas\bin\Debug\net6.0\Praticas.pdb
+C:\Csharp syntax and logics Studies\Praticas\obj\Debug\net6.0\Praticas.csproj.AssemblyReference.cache
+C:\Csharp syntax and logics Studies\Praticas\obj\Debug\net6.0\Praticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp syntax and logics Studies\Praticas\obj\Debug\net6.0\Praticas.AssemblyInfoInputs.cache
+C:\Csharp syntax and logics Studies\Praticas\obj\Debug\net6.0\Praticas.AssemblyInfo.cs
+C:\Csharp syntax and logics Studies\Praticas\obj\Debug\net6.0\Praticas.csproj.CoreCompileInputs.cache
+C:\Csharp syntax and logics Studies\Praticas\obj\Debug\net6.0\Praticas.dll
+C:\Csharp syntax and logics Studies\Praticas\obj\Debug\net6.0\refint\Praticas.dll
+C:\Csharp syntax and logics Studies\Praticas\obj\Debug\net6.0\Praticas.pdb
+C:\Csharp syntax and logics Studies\Praticas\obj\Debug\net6.0\Praticas.genruntimeconfig.cache
+C:\Csharp syntax and logics Studies\Praticas\obj\Debug\net6.0\ref\Praticas.dll
